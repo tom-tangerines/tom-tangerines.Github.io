@@ -1,12 +1,11 @@
 ---
 layout: page
 title: "About"
-description: "你的博客描述 " 
+description: "小梁博士 " 
 header-img: "img/green.jpg"
 ---
 
-这一页填写你的自我介绍。
-
+快点回来，一起在204学习。
 
 
 
